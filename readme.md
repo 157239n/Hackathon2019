@@ -14,9 +14,11 @@ At first, we thought about having one big game like space invaders, with mini ga
 ## Game 1
 
 Windows: type `game1`
+
 Mac/Linux: type `./game1`
 
 ## Game 2
 
 Windows: type `game2`
+
 Mac/Linux: type `./game2`
